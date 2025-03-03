@@ -1,7 +1,8 @@
-# Sablier V1 Safe App
+# Sablier Legacy Safe App
 
-_This is the legacy app for Sablier V1. If you're looking for the Sablier V2 Safe App, just search for "Sablier" in the
-Safe Apps Explorer._
+> [!NOTE]
+> An Safe app for interacting with the Sablier Legacy protocol. If you're looking for the Sablier V2 Safe App, just search for "Sablier" in the
+Safe Apps Explorer.
 
 This app brings real-time finance to [Safe](https://gnosis-safe.io/) users by allowing them to use the Sablier V1 token
 streaming protocol. You can read more about Safe Apps
